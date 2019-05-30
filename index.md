@@ -40,6 +40,12 @@ enable Flexslider text wrapping
 `white-space: normal;`
 
 
+one-way CSS animations (permanent state)
+
+
+`animation-fill-mode: forwards;`
+
+
 ## Misc JS
 
 
