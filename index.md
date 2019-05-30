@@ -54,6 +54,9 @@ one-way CSS animations (permanent state)
 <script src="https://gist.github.com/tom-prysm/b50a0f1e6259c3a3899830ec04d5354e.js"></script>
 
 
+`clientheight` will return 0 for inline elements like spans, it's better to target a containing element and use `offsetHeight`
+
+
 ## IIS web.config bits
 
 
