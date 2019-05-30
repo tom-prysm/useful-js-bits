@@ -22,6 +22,13 @@ Null pointers events (I didn't know about this one for ages)
 
 `pointer-events: none`
 
+
+enable Flexslider text wrapping
+
+
+`white-space: normal;`
+
+
 ## Misc JS
 
 
