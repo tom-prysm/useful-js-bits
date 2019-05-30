@@ -2,7 +2,8 @@
 ### TinySlider
 
 
-[CDNJS](https://cdnjs.com/libraries/tiny-slider)`
+[CDNJS](https://cdnjs.com/libraries/tiny-slider)
+
 
 [Github](https://github.com/ganlanyuan/tiny-slider)
 
@@ -50,17 +51,15 @@ one-way CSS animations (permanent state)
 
 
 #### Really simple spam protection that will only fool really terrible bots.
-
 <script src="https://gist.github.com/tom-prysm/b50a0f1e6259c3a3899830ec04d5354e.js"></script>
 
 
 ## IIS web.config bits
 
-#### Redirect based on IP 
 
+#### Redirect based on IP 
 <script src="https://gist.github.com/tom-prysm/07ab57c24de782f39af46b66a37c7edb.js"></script>
 
 
 #### Simple cache policy
-
 <script src="https://gist.github.com/tom-prysm/27ca5e5e39af917d87d2a08649f85dfd.js"></script>
