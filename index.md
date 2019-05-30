@@ -1,7 +1,10 @@
 ## Good minimal slider
 ### TinySlider
 
-[CDNJS](https://cdnjs.com/libraries/tiny-slider) [Github](https://github.com/ganlanyuan/tiny-slider)
+
+[CDNJS](https://cdnjs.com/libraries/tiny-slider)`
+
+[Github](https://github.com/ganlanyuan/tiny-slider)
 
 ## Add to Calendar buttons
 ### Addtocalendar
@@ -11,6 +14,14 @@
 
 
 ## Misc CSS
+
+
+#### CSS Centre
+
+
+[https://css-tricks.com/centering-css-complete-guide/](https://css-tricks.com/centering-css-complete-guide/)
+
+
 #### Safari CSS media query
 
 
