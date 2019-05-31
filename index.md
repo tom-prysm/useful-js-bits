@@ -58,6 +58,11 @@ one-way CSS animations (permanent state)
 #### scroll position notes
 `clientheight` will always return 0 for inline elements like `<span>`, it's better to target a containing element and use `offsetHeight`
 
+#### when user scrolls back up a bit 
+
+
+[https://stackoverflow.com/a/31223774](https://stackoverflow.com/a/31223774)
+
 
 ## IIS web.config bits
 
