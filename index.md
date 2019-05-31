@@ -61,13 +61,13 @@ one-way CSS animations (permanent state)
 #### when user scrolls back up a bit 
 
 
+[https://stackoverflow.com/a/31223774](https://stackoverflow.com/a/31223774)
+
+
 #### load JS only on IE11
 
 
 <script src="https://gist.github.com/tom-prysm/1cffcaa0ce795bb3d8ed1ce913dfbd18.js"></script>
-
-
-[https://stackoverflow.com/a/31223774](https://stackoverflow.com/a/31223774)
 
 
 ## IIS web.config bits
