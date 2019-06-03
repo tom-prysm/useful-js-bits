@@ -22,7 +22,14 @@
 #### CSS Centre
 
 
+
 [https://css-tricks.com/centering-css-complete-guide/](https://css-tricks.com/centering-css-complete-guide/)
+
+
+#### IE11 CSS Grid
+
+
+<script src="https://gist.github.com/tom-prysm/d850eefb5c1812ddf6d92be807f011cb.js"></script>
 
 
 #### Safari CSS media query
