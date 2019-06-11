@@ -77,6 +77,12 @@ one-way CSS animations (permanent state)
 <script src="https://gist.github.com/tom-prysm/1cffcaa0ce795bb3d8ed1ce913dfbd18.js"></script>
 
 
+#### Defer Iframes (most useful for youtube and It's horrible effect on pagespeed)
+
+
+<script src="https://gist.github.com/tom-prysm/16b401701e5f49a62d5e4cf6da739bf9.js"></script>
+
+
 ## IIS web.config bits
 
 
