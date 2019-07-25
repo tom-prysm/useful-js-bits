@@ -32,6 +32,16 @@
 <script src="https://gist.github.com/tom-prysm/d850eefb5c1812ddf6d92be807f011cb.js"></script>
 
 
+#### IE10-11 CSS media query
+
+
+```
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	
+}
+```
+
+
 #### Safari CSS media query
 
 
